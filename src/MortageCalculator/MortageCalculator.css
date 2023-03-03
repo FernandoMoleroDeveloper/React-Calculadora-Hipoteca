@@ -1,0 +1,27 @@
+.mortage-calculator{
+    width: ;
+}
+
+.mortage-calculator__fieldset{
+    border:none;
+    margin: 0 0 10px 0;
+    padding: 0;
+    
+}
+
+.mortage-calculator__input{
+    width: 300px;
+}
+
+.mortage-calculator__btn-rest{
+    margin-right: 10px;
+
+}
+.mortage-calculator__btn-sum{
+    margin-left: 10px;
+}
+
+.mortage-btn{
+    width: 373px;
+    margin-top: 15px;
+}
